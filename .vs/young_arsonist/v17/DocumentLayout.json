@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\young_arsonist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\young_arsonist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\MatchReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\MatchReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\MatchReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\MatchReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\ResultWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\ResultWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\ResultWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\ResultWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\GraphBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\GraphBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\GraphBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E466A1-3F37-470E-BF8E-EC4BF42B62B8}|young_arsonist\\young_arsonist.vcxproj|solutionrelative:young_arsonist\\GraphBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "young_arsonist.cpp",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\young_arsonist.cpp",
+              "RelativeDocumentMoniker": "young_arsonist\\young_arsonist.cpp",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\young_arsonist.cpp",
+              "RelativeToolTip": "young_arsonist\\young_arsonist.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T10:14:17.458Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultWriter.cpp",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\ResultWriter.cpp",
+              "RelativeDocumentMoniker": "young_arsonist\\ResultWriter.cpp",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\ResultWriter.cpp",
+              "RelativeToolTip": "young_arsonist\\ResultWriter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:39:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultWriter.h",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\ResultWriter.h",
+              "RelativeDocumentMoniker": "young_arsonist\\ResultWriter.h",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\ResultWriter.h",
+              "RelativeToolTip": "young_arsonist\\ResultWriter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T12:39:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphBuilder.h",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\GraphBuilder.h",
+              "RelativeDocumentMoniker": "young_arsonist\\GraphBuilder.h",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\GraphBuilder.h",
+              "RelativeToolTip": "young_arsonist\\GraphBuilder.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T12:36:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GraphBuilder.cpp",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\GraphBuilder.cpp",
+              "RelativeDocumentMoniker": "young_arsonist\\GraphBuilder.cpp",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\GraphBuilder.cpp",
+              "RelativeToolTip": "young_arsonist\\GraphBuilder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:36:41.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchReader.cpp",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\MatchReader.cpp",
+              "RelativeDocumentMoniker": "young_arsonist\\MatchReader.cpp",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\MatchReader.cpp",
+              "RelativeToolTip": "young_arsonist\\MatchReader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:36:17.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchReader.h",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\MatchReader.h",
+              "RelativeDocumentMoniker": "young_arsonist\\MatchReader.h",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\MatchReader.h",
+              "RelativeToolTip": "young_arsonist\\MatchReader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T12:36:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cpp",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\Calculator.cpp",
+              "RelativeDocumentMoniker": "young_arsonist\\Calculator.cpp",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\Calculator.cpp",
+              "RelativeToolTip": "young_arsonist\\Calculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:34:15.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.h",
+              "DocumentMoniker": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\Calculator.h",
+              "RelativeDocumentMoniker": "young_arsonist\\Calculator.h",
+              "ToolTip": "D:\\Documents\\projects\\young_arsonist\\young_arsonist\\young_arsonist\\Calculator.h",
+              "RelativeToolTip": "young_arsonist\\Calculator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T12:34:10.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
