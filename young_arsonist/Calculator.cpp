@@ -1,12 +1,14 @@
-#include "Calculator.h"
+﻿#include "Calculator.h"
 #include <iostream>
 
 void Calculator::floydWarshall(double distance[masx_vertex][masx_vertex], int count) {
+    //Iterates over all the vertices of the graph
     for (int k = 0; k < count; ++k) {
         for (int i = 0; i < count; ++i) {
             if (distance[i][k] < NONE_VALUE) {
                 for (int j = 0; j < count; ++j) {
                     if (distance[i][k] + distance[k][j] < distance[i][j]) {
+                        //If the path from node i to node j via node k is shorter than the current value of distance[i][j], then the value is updated
                         distance[i][j] = distance[i][k] + distance[k][j];
                     }
                 }
@@ -22,6 +24,14 @@ void Calculator::floydWarshall(double distance[masx_vertex][masx_vertex], int co
     }
 }
 
+/*
+int p Index of the vertex for which the maximum time is calculated
+
+const Graph& graph A graph containing information about vertices and edges
+
+double distance[masx_vertex][masx_vertex] The distance matrix obtained
+It contains the shortest distances between all pairs of vertices.
+*/
 double Calculator::getTimeAt(int p, const Graph& graph, double distance[masx_vertex][masx_vertex]) {
     double currentTime = 0;
     for (int i = 0; i < graph.count_vertex; ++i) {
@@ -29,6 +39,8 @@ double Calculator::getTimeAt(int p, const Graph& graph, double distance[masx_ver
             currentTime = distance[p][i];
         }
     }
+
+    //Accounting for edge intersections
     for (int i = 0; i < graph.count_vertex; ++i) {
         for (int j = i + 1; j < graph.count_vertex; ++j) {
             if (graph.weight[i][j] < NONE_VALUE) {
@@ -52,6 +64,7 @@ double Calculator::getTimeAt(int p, const Graph& graph, double distance[masx_ver
 }
 
 Result Calculator::calculate(const Graph& graph) {
+    //A distance matrix is ​​created that will store the distances between all pairs of vertices
     double distance[masx_vertex][masx_vertex];
     for (int i = 0; i < graph.count_vertex; ++i) {
         for (int j = 0; j < graph.count_vertex; ++j) {
@@ -59,6 +72,7 @@ Result Calculator::calculate(const Graph& graph) {
         }
     }
 
+    //updates the distance matrix to contain the shortest distances between all pairs of vertices.
     floydWarshall(distance, graph.count_vertex);
 
     Result result = { 0, 0, NONE_VALUE };

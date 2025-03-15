@@ -1,9 +1,21 @@
-﻿#include "MatchReader.h"
+﻿#include <map>
+#include <iostream>
+
+#include "MatchReader.h"
 #include "GraphBuilder.h"
 #include "Calculator.h"
 #include "ResultWriter.h"
-#include <map>
 
+
+/*
+created by Sergey Kuzmenko 
+
+young arsonist
+the program is needed to find the minimum burning time of matches
+*/
+
+
+//function that reads parameters from .env file
 std::map<std::string, std::string> readEnvFile(const std::string& filePath) {
     std::map<std::string, std::string> envMap;
     std::ifstream envFile(filePath);
@@ -29,10 +41,12 @@ std::map<std::string, std::string> readEnvFile(const std::string& filePath) {
 
 
 int main() {
-    const std::map<std::string, std::string> env = readEnvFile("D:\\Documents\\projects\\young_arsonist\\young_arsonist\\x64\\Debug\\.env");
+    const std::map<std::string, std::string> env = readEnvFile(".env");
     auto matches = MatchReader::read(env.at("file_in"));
     auto graph = GraphBuilder::build(matches);
     auto result = Calculator::calculate(graph);
     ResultWriter::write(result, env.at("file_out"));
+    char i;
+    std::cin >> i;
     return 0;
 }

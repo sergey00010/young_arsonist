@@ -15,6 +15,7 @@ struct Match {
 
 class MatchReader {
 public:
+    //The method reads data from the input file
     static std::vector<Match> read(const std::string &file_in);
 };
 
