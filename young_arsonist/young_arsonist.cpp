@@ -12,6 +12,14 @@ created by Sergey Kuzmenko
 
 young arsonist
 the program is needed to find the minimum burning time of matches
+
+MatchReader is responsible for reading data
+GraphBuilder is responsible for constructing the graph
+Calculator is responsible for calculating the result based on the constructed graph
+ResultWriter is responsible for writing the result to the output file
+Vertex stores information about a graph vertex
+Graph stores information about the graph, including a list of vertices and a weight matrix
+Result stores the result of calculations
 */
 
 
